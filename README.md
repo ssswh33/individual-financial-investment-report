@@ -5,8 +5,8 @@ This is the final project for the data visualization class.
 The class instructor asked us to build a dashboard report to help him understand his investment performance on a P2P platform.
 
 ## Data Source
-The dataset was provided by the class instrcutor,containing data from 2018-2019. 
-*For credential resaon, I cannot upload the dataset.*
+The dataset was provided by the class instrcutor,containing data from 2018-2019. </br>
+*For credential resaon, dataset isn't uploaded.*
 
 ## Challenge & Solution
 **Challenge:** The dataset contained more than 100 messy fields and almost every field's name was unreadable. </br>
@@ -20,3 +20,11 @@ The investment income seemed not that pleasant than our instructor expected. We 
 **Not low risk** Around 15% of the borrowers didn't pay back in time/didn't give the money back. Though our instructor set the maximum amount of money to be lent out per person, there was no limit for the number of people that could borrow money from him. Thus, the risk would increase when more people try to borrow money from him.
 
 
+## Dashboards
+Because the Tableau workbook is too large, it cannot be uploaded. Thus, I took three screenshots of them.</br>
+**The overall performance of the P2P platform**</br>
+![](Images/p1.png) </br>
+**Individual investment overall performance** </br>
+![](Images/p2.png)
+**More details** </br>
+![](Images/p3.png)
